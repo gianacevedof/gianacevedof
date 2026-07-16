@@ -1,19 +1,19 @@
 <p align="center">
   <a href="https://github.com/gianacevedof">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=1f9c8f&fontSize=54&height=90&width=698&text=Hey%2C%20I'm%20Giancarlo!" alt="Hey, I&#39;m Giancarlo!" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=1f9c8f&fontSize=54&height=90&width=698&text=Hey%2C%20I'm%20Giancarlo!" alt="Hey, I'm Giancarlo!" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=610&height=44&lines=a%20student%20with%20a%20self-taught%20mentality" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=610&height=44&lines=full-stack+student+%7C+self-taught+mentality" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
-🎓 Computer Programming student @ Valencia College.  
-👾 I learn by building — most of what I know comes from real coding, not just coursework.  
-🔭  I'm currently working on **Soynikon Desk — A real tool for a real business.**  
-🌱  I'm currently learning **React Best Practices.**
+🎓 Computer Programming & Analysis student @ Valencia College — graduating December 2026.</br>
+👾 I learn by building — most of what I know comes from real projects, not just coursework.</br>
+🔭 Currently building **Soynikon Desk** — a full-stack management system for a real photography business.</br>
+🌱 Leveling up in **React** and modern JavaScript.
 
 ### 🛠️ Tech Stack
 
