@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=610&height=44&lines=full-stack+student+%7C+self-taught+mentality" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=610&height=44&lines=full-stack+student+w/+self-taught+mentality" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
