@@ -45,7 +45,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=gianacevedof&show_icons=true&theme=tokyonight&title_color=1f9c8f&icon_color=1f9c8f&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=gianacevedof&layout=compact&theme=tokyonight&title_color=1f9c8f&icon_color=1f9c8f&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gianacevedof&bg_color=00000000&color=1f9c8f&line=1f9c8f&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
