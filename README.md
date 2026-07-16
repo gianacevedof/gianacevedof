@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 🎓 Computer Programming & Analysis student @ Valencia College — graduating December 2026.</br>
-👾 I learn by building — most of what I know comes from real projects, not just coursework.</br>
+👾 I learn by building — most of what I know comes from real coding practice, not just coursework.</br>
 🔭 Currently building **Soynikon Desk** — a full-stack management system for a real photography business.</br>
 🌱 Leveling up in **React** and modern JavaScript.
 
